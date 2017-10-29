@@ -3,12 +3,12 @@
 [![XOOPS CMS Module](https://img.shields.io/badge/XOOPS%20CMS-Module-blue.svg)](https://xoops.org)
 [![Software License](https://img.shields.io/badge/license-GPL-brightgreen.svg?style=flat)](LICENSE)
 
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/XoopsModules25x/xpartners.svg?style=flat)](https://scrutinizer-ci.com/g/XoopsModules25x/xpartners/?branch=master)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/mambax7/xpartners.svg?style=flat)](https://scrutinizer-ci.com/g/mambax7/xpartners/?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/923baea16e434afcbe15ef6964a06eb4)](https://www.codacy.com/app/mambax7/xpartners_2)
-[![Code Climate](https://img.shields.io/codeclimate/github/XoopsModules25x/xpartners.svg?style=flat)](https://codeclimate.com/github/XoopsModules25x/xpartners)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/c4491118-313a-4306-a41d-9ced1dbfca72/mini.png)](https://insight.sensiolabs.com/projects/c4491118-313a-4306-a41d-9ced1dbfca72)
-[![Latest Pre-Release](https://img.shields.io/github/tag/XoopsModules25x/xpartners.svg?style=flat)](https://github.com/XoopsModules25x/xpartners/tags/)
-[![Latest Version](https://img.shields.io/github/release/XoopsModules25x/xpartners.svg?style=flat)](https://github.com/XoopsModules25x/xpartners/releases/)
+[![Code Climate](https://img.shields.io/codeclimate/github/mambax7/xpartners.svg?style=flat)](https://codeclimate.com/github/mambax7/xpartners)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/712c8cf8-2b0b-478c-92b3-1235f459d85a/mini.png)](https://insight.sensiolabs.com/projects/712c8cf8-2b0b-478c-92b3-1235f459d85a)
+[![Latest Pre-Release](https://img.shields.io/github/tag/mambax7/xpartners.svg?style=flat)](https://github.com/mambax7/xpartners/tags/)
+[![Latest Version](https://img.shields.io/github/release/mambax7/xpartners.svg?style=flat)](https://github.com/mambax7/xpartners/releases/)
 
 **Xpartners** module for [XOOPS CMS](https://xoops.org) provides a page and a block for displaying links to the websites of cooperating organizations, together with short descriptions and optionally logos. 
 Typical usage includes recognition of websites that refer a lot of traffic to your own and ‘thank you’ pages for sponsors.
