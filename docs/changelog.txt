@@ -1,0 +1,27 @@
+2.01 Beta 1       2014-04-23
+=================================
+- moved all images, CSS, and JS files to /assets (mamba)
+- renamed .html Smarty templates to .tpl (mamba)
+
+2.00 2011/06/08
+=================================
+- Refactored to "Blue Move" by Andricq Nicolas (AKA MusS)
+
+1.12 2011/06/08
+=================================
+- removed all icons files and point them to /Frameworks/moduleclasses
+- updated to the latest ModuleAdmin Class
+
+1.11 2011/04/15  Internal version
+=================================
+- moved changelog.txt back to /docs
+- added Selenium Tests
+- added Dashboard
+- added Help
+- changed Edit/Delete text links to Icons
+- updated GUI to XOOPS Standard Module GUI (mamba)
+
+1.10 Raul Recio (AKA UNFOR)
+=================================
+- Original
+

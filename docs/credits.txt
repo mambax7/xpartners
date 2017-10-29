@@ -1,0 +1,7 @@
+Credits
+===============
+Developed by 'Raul Recio'(unfor)
+
+Refactored to "Blue Move" by Andricq Nicolas (AKA MusS)
+
+Updated to XOOPS 2.5.0 Standard GUI by Michael Beck (Mamba), with contributios by Gregory Mage (Mage)
